@@ -1,22 +1,23 @@
 # Caroline Gomez
-## Caroline Gomez
-### Caroline Gomez
+## Computer Engineer Major
+### 3rd year
 
-**Caroline Gomez**
+**Going for Software Concentration**
 
-*Caroline Gomez*
+*Hobbies*
+>Sports
+>Workout
+>Ride bike
 
->Caroline Gomez
->Caroline Gomez
->Caroline Gomez
+Learning/Learned
+1. C++
+2. Python
+3. SQL
 
-1. Caroline
-2. Carol
-3. Caro
-
-- Caroline
-- Carol
-- Caro
+About me
+- went to high school in West New York
+- played volleyball and ran cross country in high school
+- interned at MetLife
 
 use `git status`
 
