@@ -1,4 +1,5 @@
 # Lab 8
+## Lab 8A: Examples
 ![1](images/Screenshot(165).png)
 
 ![2](images/Screenshot(166).png)
@@ -69,6 +70,7 @@
 
 ![35](images/Screenshot(201).png)
 
+## Lab 8B: Data Analysis
 ![36](images/Screenshot(203).png)
 
 ![37](images/Screenshot(204).png)
